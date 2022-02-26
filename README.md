@@ -12,8 +12,8 @@ Network Model - Qualcomm Atheros AR7485 802.11 bgn wifi adapter, RealTek PCIe Fa
 
 
 # What does work
-Mostly everything 
+Everything
 # What doesnt work 
-Wireless WIFI
+Post it in Issues
 # Disclaimer
 I will not be responsible for any damage did on your system no matter software or hardware.
