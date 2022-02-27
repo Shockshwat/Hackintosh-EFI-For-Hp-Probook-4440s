@@ -17,3 +17,4 @@ Everything
 Post it in Issues
 # Disclaimer
 I will not be responsible for any damage did on your system no matter software or hardware.
+#OS Used : MacOs Big Sur 11.6.4
