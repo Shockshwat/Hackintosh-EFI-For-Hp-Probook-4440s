@@ -24,4 +24,4 @@ Everything
 Post it in Issues
 # Disclaimer
 I will not be responsible for any damage did on your system no matter software or hardware. Don't DM me for support. I will send you to jesus
-# OS Used : MacOs Big Sur 11.6.4
+# OS Used : MacOs Big Sur 11.6.5
