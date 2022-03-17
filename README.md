@@ -13,7 +13,7 @@ Keyboard - Standard PS/2 Keyboard
 
 Mouse - Synaptics PS/2 Port Touchpad 
 
-Network Model - Qualcomm Atheros AR7485 802.11 bgn wifi adapter, RealTek PCIe Family controller
+Network Model - Qualcomm Atheros AR9485 802.11 bgn wifi adapter, RealTek PCIe Family controller
 
 
 
