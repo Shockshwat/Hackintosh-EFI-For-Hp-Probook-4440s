@@ -1,5 +1,6 @@
 # Hackintosh-EFI-For-Hp-Probook-4440s
 This is an EFI for the HP Probook 4440s with hardware :
+
 CPU - Intel(R) Core(TM) i5-3210M CPU @2.50GHz
 
 GPU - Intel(R) HD Graphics 4000
